@@ -4,3 +4,4 @@
 
 Dit is tekst, versie 2.
 
+Dit is een verandering in GitHub van Master
